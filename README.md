@@ -1,0 +1,2 @@
+# KadaiNationView
+#国リストです
